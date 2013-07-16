@@ -4,7 +4,7 @@
   <title><![CDATA[叫我烫烫]]></title>
   <link href="http://cinsondev.github.io/atom.xml" rel="self"/>
   <link href="http://cinsondev.github.io/"/>
-  <updated>2013-07-16T14:36:22+08:00</updated>
+  <updated>2013-07-16T19:29:40+08:00</updated>
   <id>http://cinsondev.github.io/</id>
   <author>
     <name><![CDATA[烫烫]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Temp]]></title>
+    <link href="http://cinsondev.github.io/blog/2013/07/16/temp/"/>
+    <updated>2013-07-16T15:41:00+08:00</updated>
+    <id>http://cinsondev.github.io/blog/2013/07/16/temp</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Octopress Blog 的常用命令]]></title>
