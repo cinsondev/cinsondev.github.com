@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Change Theme"
+date: 2013-07-16 07:05
+author: CinsonChen
+comments: true
+categories: 新的征程 
+---
+  I change a new theme for my blog.
+
