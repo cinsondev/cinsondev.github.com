@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: 新的征程 | My Octopress Blog]]></title>
+  <title><![CDATA[Category: 新的征程 | 叫我烫烫]]></title>
   <link href="http://cinsondev.github.io/blog/categories/xin-de-zheng-cheng/atom.xml" rel="self"/>
   <link href="http://cinsondev.github.io/"/>
-  <updated>2013-07-16T07:19:00+08:00</updated>
+  <updated>2013-07-16T08:49:55+08:00</updated>
   <id>http://cinsondev.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[烫烫]]></name>
+    <email><![CDATA[cinsondev@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
-    <title type="html"><![CDATA[新的开始]]></title>
+    <title type="html"><![CDATA[Change Theme]]></title>
     <link href="http://cinsondev.github.io/blog/2013/07/16/biao-ti/"/>
     <updated>2013-07-16T07:05:00+08:00</updated>
     <id>http://cinsondev.github.io/blog/2013/07/16/biao-ti</id>
-    <content type="html"><![CDATA[<p>  加油！</p>
+    <content type="html"><![CDATA[<p>  I change a new theme for my blog.</p>
 ]]></content>
   </entry>
   
